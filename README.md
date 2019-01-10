@@ -1,3 +1,5 @@
-# simple-shared-worker
-A simple demo to show shared worker basics. [View the example live](http://mdn.github.io/simple-shared-worker/).
+# simple-dedicated-worker
+run npm install http-server -g
+cd to the existing folder
+run http-server
 "# webworker-sample" 
